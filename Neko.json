@@ -1,6 +1,6 @@
 {
   "name": "Neko",
-  "description": "Neko theme by zingky with animated cat GIF background.",
+  "description": "Neko theme by zingky with animated cat GIF background covering everything.",
   "version": "1.0",
   "authors": [
     {
@@ -14,67 +14,67 @@
       "#1E3D61"
     ],
     "CONTEXT_MENU_BACKDROP_BACKGROUND": [
-      "#0A1E3D66"
+      "transparent"
     ],
     "CHAT_BACKGROUND": [
-      "#0F2847"
+      "transparent"
     ],
     "BACKGROUND_ACCENT": [
       "#52D6FF"
     ],
     "BACKGROUND_FLOATING": [
-      "#163152"
+      "transparent"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#1E3D61"
+      "transparent"
     ],
     "BACKGROUND_PRIMARY": [
-      "#0F2847"
+      "transparent"
     ],
     "BACKGROUND_SECONDARY": [
-      "#0A1E3D"
+      "transparent"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#0A1E3D"
+      "transparent"
     ],
     "BACKGROUND_TERTIARY": [
-      "#1E3D61"
+      "transparent"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#0F2847"
+      "transparent"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#142C4A"
+      "transparent"
     ],
     "BG_BASE_PRIMARY": [
-      "#0F2847"
+      "transparent"
     ],
     "BG_BASE_SECONDARY": [
-      "#0A1E3D"
+      "transparent"
     ],
     "BG_BASE_TERTIARY": [
-      "#1E3D61"
+      "transparent"
     ],
     "BG_BACKDROP": [
-      "#0F284799"
+      "transparent"
     ],
     "HOME_BACKGROUND": [
-      "#0F2847"
+      "transparent"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#173358"
+      "#52D6FF22"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#1E3D61"
+      "#52D6FF15"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#2A4F7A"
+      "#52D6FF25"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#1E3D61"
+      "#52D6FF10"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#336699"
+      "#52D6FF33"
     ],
     "BACKGROUND_MENTIONED": [
       "#52D6FF33"
@@ -128,40 +128,40 @@
       "#60799C"
     ],
     "BORDER_FAINT": [
-      "#1E3D61"
+      "#52D6FF25"
     ],
     "BORDER_STRONG": [
-      "#336699"
+      "#52D6FF50"
     ],
     "BORDER_SUBTLE": [
-      "#0A1E3D"
+      "#52D6FF10"
     ],
     "CARD_PRIMARY_BG": [
-      "#163152"
+      "transparent"
     ],
     "CARD_SECONDARY_BG": [
-      "#1E3D61"
+      "transparent"
     ],
     "EMBED_BACKGROUND": [
-      "#163152"
+      "#0A1E3D66"
     ],
     "PANEL_BG": [
-      "#0A1E3D"
+      "transparent"
     ],
     "KEYBOARD": [
-      "#0F2847"
+      "#020712"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#142C4A"
+      "transparent"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#142C4A"
+      "transparent"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#2A4F7A"
+      "#52D6FF20"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#1E3D61"
+      "#52D6FF15"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
       "#52D6FF"
@@ -176,13 +176,13 @@
       "#8CEBFF"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#163152"
+      "transparent"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#1E3D61"
+      "#52D6FF15"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
-      "#2A4F7A"
+      "#1E3D61"
     ],
     "SCROLLBAR_THIN_THUMB": [
       "#52D6FF55"
@@ -194,7 +194,7 @@
       "#52D6FF44"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "#0F2847"
+      "transparent"
     ],
     "STATUS_DANGER": [
       "#7E68FF"
@@ -209,13 +209,13 @@
       "#52D6FF"
     ],
     "STATUS_POSITIVE_BACKGROUND": [
-      "#2A4F7A"
+      "#52D6FF20"
     ],
     "STATUS_WARNING": [
       "#8CEBFF"
     ],
     "STATUS_WARNING_BACKGROUND": [
-      "#336699"
+      "#8CEBFF20"
     ],
     "TEXT_BRAND": [
       "#52D6FF"
@@ -236,10 +236,10 @@
       "#8CEBFF"
     ],
     "INPUT_BACKGROUND": [
-      "#142C4A"
+      "#0A1E3D80"
     ],
     "INPUT_BORDER": [
-      "#336699"
+      "#52D6FF30"
     ],
     "INPUT_BORDER_FOCUS": [
       "#52D6FF"
@@ -251,70 +251,70 @@
       "#8CEBFF"
     ],
     "FORUM_POST_TAG_BACKGROUND": [
-      "#1E3D61"
+      "#0A1E3D80"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
-      "#1E3D61"
+      "#52D6FF15"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#142C4A"
+      "#0A1E3D50"
     ],
     "POLLS_VICTOR_FILL": [
-      "#336699"
+      "#52D6FF25"
     ],
     "REDESIGN_PROFILE_PANEL_BACKGROUND": [
-      "#0A1E3D"
+      "transparent"
     ],
     "REDESIGN_PROFILE_PANEL_OVERLAY": [
-      "#1E3D61"
+      "#0A1E3D80"
     ],
     "REDESIGN_INPUT_CONTROL_SELECTED": [
       "#52D6FF"
     ],
     "PROFILE_GRADIENT_PRIMARY": [
-      "#0A1E3D"
+      "transparent"
     ],
     "PROFILE_GRADIENT_SECONDARY": [
-      "#1E3D61"
+      "transparent"
     ],
     "VOICE_VIDEO_BACKGROUND": [
-      "#0F2847"
+      "transparent"
     ],
     "MODAL_BACKGROUND": [
-      "#163152"
+      "#0A1E3D88"
     ],
     "MODAL_FOOTER_BACKGROUND": [
-      "#0A1E3D"
+      "#0A1E3D88"
     ],
     "SEARCH_BAR_BACKGROUND": [
-      "#142C4A"
+      "#0A1E3D80"
     ],
     "TOOLTIP_BACKGROUND": [
-      "#1E3D61"
+      "#0A1E3DCC"
     ],
     "TOOLTIP_TEXT": [
       "#FFFFFF"
     ],
     "HOME_CARD_RESTING_BORDER": [
-      "#336699"
+      "#52D6FF30"
     ],
     "HOME_CARD_RESTING_SHADOW": [
-      "#0F2847"
+      "transparent"
     ],
     "HOME_CARD_HOVER_BORDER": [
       "#52D6FF"
     ],
     "INFO_BOX_BACKGROUND": [
-      "#1E3D61"
+      "#0A1E3D80"
     ],
     "INFO_WARNING_BACKGROUND": [
-      "#2A4F7A"
+      "#8CEBFF20"
     ],
     "INFO_DANGER_BACKGROUND": [
-      "#2B1C52"
+      "#7E68FF20"
     ],
     "INFO_POSITIVE_BACKGROUND": [
-      "#1E3D61"
+      "#52D6FF15"
     ]
   },
 
@@ -471,7 +471,7 @@
     "ACCENT_700": "#42C7FF",
     "ACCENT_800": "#2195DB",
     "ACCENT_900": "#14598B",
-    "VOID_BLACK": "#0F2847",
+    "VOID_BLACK": "#020712",
     "INFINITE_VOID": "#0A1E3D",
     "DEEP_NAVY": "#1E3D61",
     "SIX_EYES": "#52D6FF",
@@ -481,24 +481,24 @@
     "MIST_GRAY": "#D6E2F0"
   },
   "fonts": {
-    "ABCGintoNord-ExtraBold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "ggsans-Bold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "ggsans-BoldItalic": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "ggsans-ExtraBold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "ggsans-ExtraBoldItalic": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "ggsans-Medium": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "ggsans-MediumItalic": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "ggsans-Normal": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "ggsans-NormalItalic": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "ggsans-Semibold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "ggsans-SemiboldItalic": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "NotoSans-Bold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "NotoSans-ExtraBold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "NotoSans-Medium": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "NotoSans-Normal": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "NotoSans-NormalItalic": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "NotoSans-Semibold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf",
-    "SourceCodePro-Semibold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-Comic%20Sans.ttf"
+    "ABCGintoNord-ExtraBold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "ggsans-Bold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "ggsans-BoldItalic": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "ggsans-ExtraBold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "ggsans-ExtraBoldItalic": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "ggsans-Medium": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "ggsans-MediumItalic": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "ggsans-Normal": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "ggsans-NormalItalic": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "ggsans-Semibold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "ggsans-SemiboldItalic": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "NotoSans-Bold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "NotoSans-ExtraBold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "NotoSans-Medium": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "NotoSans-Normal": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "NotoSans-NormalItalic": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "NotoSans-Semibold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf",
+    "SourceCodePro-Semibold": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/VNF-ComicSans.ttf"
   },
   "plus": {
     "version": 0,
@@ -509,7 +509,7 @@
     "newMessagesBarColor": "#7E68FF",
     "unreadIndicatorColor": "#52D6FF",
     "folderIconColor": "#FFFFFF",
-    "folderBackgroundColor": "#163152",
+    "folderBackgroundColor": "#0A1E3D80",
     "homeIconColor": "#FFFFFF",
     "settingsIconColor": "#8CEBFF",
     "voiceConnectedColor": "#52D6FF",
@@ -519,92 +519,92 @@
     "linkColor": "#8CEBFF",
     "profileAccent": "#7E68FF",
     "profileBorder": "#52D6FF",
-    "selectionColor": "#336699",
-    "dividerColor": "#1E3D61",
+    "selectionColor": "#52D6FF33",
+    "dividerColor": "#52D6FF20",
     "StatusOnline": ["#52D6FF"],
     "StatusIdle": ["#8CEBFF"],
     "StatusDND": ["#7E68FF"],
     "StatusOffline": ["#60799C"],
     "StatusStreaming": ["#7E68FF"],
     "StatusMobileOnline": ["#52D6FF"],
-    "CALL_BACKGROUND": ["#0A1E3D"],
-    "CALL_BUTTON_BACKGROUND": ["#1E3D61"],
-    "CALL_BUTTON_BACKGROUND_PRESSED": ["#336699"],
+    "CALL_BACKGROUND": ["transparent"],
+    "CALL_BUTTON_BACKGROUND": ["#0A1E3D80"],
+    "CALL_BUTTON_BACKGROUND_PRESSED": ["#0A1E3DCC"],
     "CALL_BUTTON_ICON": ["#52D6FF"],
-    "VOICE_PANEL_BACKGROUND": ["#0A1E3D"],
-    "VOICE_PANEL_BORDER": ["#1E3D61"],
+    "VOICE_PANEL_BACKGROUND": ["transparent"],
+    "VOICE_PANEL_BORDER": ["#52D6FF20"],
     "VOICE_CONNECTED": ["#52D6FF"],
     "VOICE_DISCONNECTED": ["#60799C"],
-    "PROFILE_PANEL_BACKGROUND": ["#0A1E3D"],
-    "PROFILE_PANEL_OVERLAY": ["#1E3D61"],
-    "PROFILE_MUTUAL_GUILD_BACKGROUND": ["#163152"],
-    "PROFILE_NOTE_BACKGROUND": ["#142C4A"],
+    "PROFILE_PANEL_BACKGROUND": ["transparent"],
+    "PROFILE_PANEL_OVERLAY": ["#0A1E3D80"],
+    "PROFILE_MUTUAL_GUILD_BACKGROUND": ["#0A1E3D50"],
+    "PROFILE_NOTE_BACKGROUND": ["#0A1E3D50"],
     "THREAD_CHANNEL_SPINE": ["#52D6FF"],
     "THREAD_CHANNEL_NAME": ["#FFFFFF"],
     "THREAD_CHANNEL_ICON": ["#8CEBFF"],
-    "REPLY_BAR_BACKGROUND": ["#1E3D61"],
+    "REPLY_BAR_BACKGROUND": ["#0A1E3D80"],
     "REPLY_BAR_ACCENT": ["#52D6FF"],
     "REPLY_BAR_TEXT": ["#FFFFFF"],
-    "SEARCH_RESULT_BACKGROUND": ["#163152"],
+    "SEARCH_RESULT_BACKGROUND": ["#0A1E3D80"],
     "SEARCH_RESULT_HIGHLIGHT": ["#52D6FF33"],
-    "SEARCH_FILTER_BACKGROUND": ["#1E3D61"],
+    "SEARCH_FILTER_BACKGROUND": ["#0A1E3D80"],
     "SEARCH_FILTER_SELECTED": ["#52D6FF"],
     "NEW_MESSAGES_BAR": ["#7E68FF"],
     "NEW_MESSAGES_BAR_TEXT": ["#FFFFFF"],
     "UNREAD_PILL": ["#52D6FF"],
     "UNREAD_PILL_TEXT": ["#000000"],
-    "FORUM_BACKGROUND": ["#0A1E3D"],
-    "FORUM_CARD_BACKGROUND": ["#163152"],
-    "FORUM_CARD_HOVER": ["#1E3D61"],
+    "FORUM_BACKGROUND": ["transparent"],
+    "FORUM_CARD_BACKGROUND": ["#0A1E3D80"],
+    "FORUM_CARD_HOVER": ["#0A1E3DAA"],
     "FORUM_POST_TAG": ["#8CEBFF"],
-    "STAGE_CHANNEL_BACKGROUND": ["#0A1E3D"],
-    "GUILD_FOLDER_BACKGROUND": ["#163152"],
+    "STAGE_CHANNEL_BACKGROUND": ["transparent"],
+    "GUILD_FOLDER_BACKGROUND": ["#0A1E3D80"],
     "GUILD_FOLDER_ICON": ["#52D6FF"],
-    "SIDEBAR_BACKGROUND": ["#0A1E3D"],
-    "SIDEBAR_SELECTED": ["#336699"],
-    "SIDEBAR_HOVER": ["#1E3D61"],
-    "SETTINGS_SIDEBAR": ["#0A1E3D"],
-    "SETTINGS_SIDEBAR_HOVER": ["#1E3D61"],
-    "SETTINGS_SIDEBAR_SELECTED": ["#336699"],
+    "SIDEBAR_BACKGROUND": ["transparent"],
+    "SIDEBAR_SELECTED": ["#52D6FF25"],
+    "SIDEBAR_HOVER": ["#52D6FF12"],
+    "SETTINGS_SIDEBAR": ["transparent"],
+    "SETTINGS_SIDEBAR_HOVER": ["#52D6FF12"],
+    "SETTINGS_SIDEBAR_SELECTED": ["#52D6FF25"],
     "TEXT_MUTED_ON_DEFAULT": ["#90A6C4"],
     "TEXT_MUTED_ON_ACCENT": ["#D6E2F0"],
     "CHAT_INPUT_PLACEHOLDER": ["#90A6C4"],
-    "REACTION_BACKGROUND": ["#1E3D61"],
-    "REACTION_BACKGROUND_HOVER": ["#2A4F7A"],
+    "REACTION_BACKGROUND": ["#0A1E3D80"],
+    "REACTION_BACKGROUND_HOVER": ["#0A1E3DAA"],
     "REACTION_SELECTED": ["#52D6FF"],
-    "EMOJI_PICKER_BACKGROUND": ["#0A1E3D"],
+    "EMOJI_PICKER_BACKGROUND": ["transparent"],
     "EMOJI_PICKER_CATEGORY": ["#8CEBFF"],
-    "MEMBER_LIST_BACKGROUND": ["#0A1E3D"],
+    "MEMBER_LIST_BACKGROUND": ["transparent"],
     "MEMBER_LIST_HEADER": ["#D6E2F0"],
     "BOT_TAG_BACKGROUND": ["#52D6FF"],
     "BOT_TAG_TEXT": ["#000000"],
     "LINK_DEFAULT": ["#8CEBFF"],
     "LINK_HOVER": ["#B7F2FF"],
-    "MODAL_BORDER": ["#336699"],
+    "MODAL_BORDER": ["#52D6FF40"],
     "MODAL_HEADER": ["#FFFFFF"],
     "SWITCH_ACTIVE": ["#52D6FF"],
     "SWITCH_INACTIVE": ["#60799C"],
-    "CHECKBOX_BACKGROUND": ["#1E3D61"],
+    "CHECKBOX_BACKGROUND": ["#0A1E3D80"],
     "CHECKBOX_CHECKED": ["#52D6FF"],
-    "RADIO_BACKGROUND": ["#1E3D61"],
+    "RADIO_BACKGROUND": ["#0A1E3D80"],
     "RADIO_SELECTED": ["#52D6FF"],
-    "SLIDER_BACKGROUND": ["#1E3D61"],
+    "SLIDER_BACKGROUND": ["#0A1E3D80"],
     "SLIDER_GRABBER": ["#8CEBFF"],
-    "DIVIDER_STRONG": ["#336699"],
-    "DIVIDER_SUBTLE": ["#1E3D61"],
-    "GIFT_CODE_BACKGROUND": ["#163152"],
-    "ACTIVITY_INVITE_BACKGROUND": ["#1E3D61"],
-    "STREAM_PREVIEW_BACKGROUND": ["#0A1E3D"],
+    "DIVIDER_STRONG": ["#52D6FF40"],
+    "DIVIDER_SUBTLE": ["#52D6FF15"],
+    "GIFT_CODE_BACKGROUND": ["#0A1E3D80"],
+    "ACTIVITY_INVITE_BACKGROUND": ["#0A1E3D80"],
+    "STREAM_PREVIEW_BACKGROUND": ["transparent"],
     "PREMIUM_TIER_1": ["#8CEBFF"],
     "PREMIUM_TIER_2": ["#52D6FF"],
     "PREMIUM_TIER_3": ["#7E68FF"],
     "SUCCESS": ["#52D6FF"],
     "WARNING": ["#8CEBFF"],
     "ERROR": ["#7E68FF"],
-    "WINDOW_BACKGROUND": ["#0F2847"],
-    "WINDOW_BORDER": ["#1E3D61"],
+    "WINDOW_BACKGROUND": ["transparent"],
+    "WINDOW_BORDER": ["#52D6FF20"],
     "WINDOW_TITLE": ["#FFFFFF"],
-    "GLASS_OVERLAY": ["#0F284788"],
+    "GLASS_OVERLAY": ["#0A1E3D44"],
     "AMOLED_BASE": ["#020712"],
     "INFINITE_VOID_GLOW": ["#52D6FF22"],
     "SIX_EYES_GLOW": ["#52D6FF"],
@@ -612,7 +612,7 @@
   },
   "background": {
     "url": "https://cdn.jsdelivr.net/gh/zingky/Discord-themesssss@main/neko.gif",
-    "alpha": 0.55,
-    "blur": 0.2
+    "alpha": 0.65,
+    "blur": 0.1
   }
 }
